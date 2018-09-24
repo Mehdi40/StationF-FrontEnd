@@ -1,3 +1,9 @@
+# Warning
+La liste des salles de réunions peut être trouvée ici https://github.com/Mehdi40/StationF-BackEnd/blob/master/bin/test/fixtures/rooms.json
+
+(Elle est modifiée et contient un nouveau champs permettant l'affichage des images)
+
+
 # Installation
 
 `git clone  git@github.com:Mehdi40/StationF-FrontEnd.git`
