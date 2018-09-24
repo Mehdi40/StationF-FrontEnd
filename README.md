@@ -1,30 +1,20 @@
-# stationf
+# Installation
 
-> A Vue.js project
+`git clone  git@github.com:Mehdi40/StationF-FrontEnd.git`
 
-## Build Setup
+`cd StationF-FrontEnd`
 
-``` bash
-# install dependencies
-npm install
+`npm install`
 
-# serve with hot reload at localhost:8080
-npm run dev
+`npm start`
 
-# build for production with minification
-npm run build
+## Test :
+`npm test`
 
-# build for production and view the bundle analyzer report
-npm run build --report
+## Utilisation :
 
-# run unit tests
-npm run unit
+Lancez l'API et le Front, puis rendez-vous sur `http://localhost:4000/#/rooms`
+Vous pouvez trier les salles par leur nom, leur nombre de place, et leurs équipements.
+Vous pouvez choisir la date à laquelle vous souhaitez faire une réservation.
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Pour le reste, je vous laisse découvrir par vous-même (ça sera un bon moyen de voir si mon UX marche ou pas)
